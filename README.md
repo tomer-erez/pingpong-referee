@@ -1,4 +1,4 @@
-# pingpong-referee
+## pingpong-referee
 using the YOlO algorithm for an automated pingpong referee
 
 ## youtube link
